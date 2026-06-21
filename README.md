@@ -6,10 +6,33 @@
 
 * 🐧 Learning Linux and system fundamentals
 * ☕ Building with Java
-* 🌐 Exploring how the Internet works
+* 🌐 Exploring Web Development and Internet fundamentals
 * 🧠 Studying Data Structures & Algorithms
 * 🛠️ Learning Git, GitHub, and developer workflows
 * 📚 Currently following a structured path through Boot.dev
+
+## 💻 Featured Project
+
+### C Memory Visualizer
+
+An educational tool designed to help learners understand how memory works in C programs.
+
+**Tech Stack:**
+
+* HTML
+* CSS
+* JavaScript
+
+**Goals:**
+
+* Visualize stack and heap memory
+* Demonstrate variable allocation
+* Show pointers and memory addresses interactively
+* Make low-level programming concepts easier to understand
+* Make a online compiler embedded in it
+* Create a user friendly login and resistance free environment
+
+🚧 Currently under development.
 
 ## 🗺️ Current Roadmap
 
@@ -17,7 +40,7 @@
 * 🔄 Web Development
 * 🔄 Internet & Networking
 * 🔄 Data Structures & Algorithms
-* 🔄 Project Building
+* 🔄 Building the C Memory Visualizer
 
 ## 🏆 Boot.dev
 
@@ -30,18 +53,22 @@
 ## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
 
 ## 📈 Goals for 2026
 
-* Build real-world projects
-* Strengthen CS fundamentals
+* Complete the C Memory Visualizer
+* Build more educational developer tools
+* Strengthen Computer Science fundamentals
 * Become confident with backend development
-* Contribute to open-source projects
+* Contribute to open source
 * Learn in public and document my journey
 
 ---
 
-*"The deeper I go into Computer Science, the more there is to learn—and that's what makes it exciting."*
+*"Learning by building, understanding by experimenting."*
