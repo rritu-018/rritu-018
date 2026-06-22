@@ -42,8 +42,8 @@ An educational tool designed to help learners understand how memory works in C p
 * 🔄 Data Structures & Algorithms
 * 🔄 Building the C Memory Visualizer
 
-##<b>BOOT.DEV</b>
-## <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/24c802a5-23ac-40e2-9022-66ce72a5a88d" />
+##<b text-size = 20px>BOOT.DEV</b>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/24c802a5-23ac-40e2-9022-66ce72a5a88d" />
 
 <p align="center">
   <a href="https://www.boot.dev">
@@ -51,7 +51,7 @@ An educational tool designed to help learners understand how memory works in C p
   </a>
 </p>
 
-<b>##The Odin Project</b>
+<b text-size:20px>##The Odin Project</b>
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2eec443b-6abd-4221-b458-83b4a02b8c4a" /> 
 <p align="center">
   <a href="https://www.theodinproject.com">
