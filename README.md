@@ -42,7 +42,7 @@ An educational tool designed to help learners understand how memory works in C p
 * 🔄 Data Structures & Algorithms
 * 🔄 Building the C Memory Visualizer
 
-## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/24c802a5-23ac-40e2-9022-66ce72a5a88d" /> BOOT.DEV
+## <img width="30" height="14" alt="image" src="https://github.com/user-attachments/assets/e94ad3a2-8eba-4072-8afc-7e55b070c8b4" /> BOOT.DEV
 
 
 <p align="center">
@@ -51,8 +51,8 @@ An educational tool designed to help learners understand how memory works in C p
   </a>
 </p>
 
-<b text-size =50px>##The Odin Project</b>
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2eec443b-6abd-4221-b458-83b4a02b8c4a" /> 
+## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/2eec443b-6abd-4221-b458-83b4a02b8c4a" />  The Odin Project
+
 <p align="center">
   <a href="https://www.theodinproject.com">
     <img src="https://raw.githubusercontent.com/rritu-018/odin-progress-card/main/odin_progress_card.svg" alt="Odin Project Progress Card">
