@@ -42,7 +42,7 @@ An educational tool designed to help learners understand how memory works in C p
 * 🔄 Data Structures & Algorithms
 * 🔄 Building the C Memory Visualizer
 
-## <img width="30" height="14" alt="image" src="https://github.com/user-attachments/assets/e94ad3a2-8eba-4072-8afc-7e55b070c8b4" /> BOOT.DEV
+## <img width="50" height="23" alt="image" src="https://github.com/user-attachments/assets/e94ad3a2-8eba-4072-8afc-7e55b070c8b4" /> BOOT.DEV
 
 
 <p align="center">
