@@ -50,7 +50,8 @@ An educational tool designed to help learners understand how memory works in C p
   </a>
 </p>
 
-## 🦉 The Odin Project
+## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/09b6cfb2-c53b-4ebd-b9ab-21d56cd01f5a" />
+ The Odin Project
 <p align="center">
   <a href="https://www.theodinproject.com">
     <img src="https://raw.githubusercontent.com/rritu-018/odin-progress-card/main/odin_progress_card.svg" alt="Odin Project Progress Card">
