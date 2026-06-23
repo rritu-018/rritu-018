@@ -44,11 +44,8 @@ An educational tool designed to help learners understand how memory works in C p
 
 ## <img width="60" height="28" alt="image" src="https://github.com/user-attachments/assets/e94ad3a2-8eba-4072-8afc-7e55b070c8b4" /> BOOT.DEV
 
-
 <p align="center">
-  <a href="https://www.boot.dev">
-    <img src="https://api.boot.dev/v1/users/public/35429030-3d04-4657-a6f7-278d47c87ab7/thumbnail" alt="Boot.dev Profile Card">
-  </a>
+  <img src="https://api.boot.dev/v1/users/public/35429030-3d04-4657-a6f7-278d47c87ab7/thumbnail" >
 </p>
 
 ## <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/2eec443b-6abd-4221-b458-83b4a02b8c4a" />  The Odin Project
